@@ -41,10 +41,9 @@ const showCharacters = (data) => {
           <img src="${thumbnail.path}.${thumbnail.extension}${extensionImg}" alt="${name}">
         </div>
         <h2>${name}</h2>
-        <span>${description}</span>
-        <p><b>Especie:</b> ${name}</p>
       </article>
     `;
     container.innerHTML = output;
   });
 };
+//  <span>${description}</span>
