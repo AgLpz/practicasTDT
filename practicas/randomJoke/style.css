@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html,
+  body {
+    height: 100%;
+    font-family: sans-serif;
+    
+    text-align: center;
+  }
+  main {
+    position: relative;
+  }
+  
+  #container {
+    margin-top: 48px;
+    padding: 24px;
+
+  }
+  
+
+  
+
+
+ 
